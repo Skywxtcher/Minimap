@@ -4,8 +4,8 @@
 // @version      0.21
 // @description  Minimap for PixelCanvas
 // @author       Exel80#0001 & Terrienne#2453
-// @match        http://pixelcanvas.io/*
-// @match        https://pixelcanvas.io/*
+// @match        http://pixelcanvas.io/
+// @match        https://pixelcanvas.io/
 // @grant        GM_addStyle
 // @grant        GM_getResourceText
 // @require      https://use.fontawesome.com/releases/v5.0.10/js/all.js
