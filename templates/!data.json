@@ -10,6 +10,7 @@
 		["SpaceCanvas", "spacecanvas"],
 		["PixelGS", "pixelgs"],
 		["Vapu", "vapu"]
+		["Rowdy", "rowdy"]
 	],
 	"Templates": {
 		"Abyss_MemorialArt": {
@@ -452,6 +453,16 @@
 			"height": 172,
 			"categories": ["pixelgs"],
 			"aliases": ["PixelGS", "GS ortakgs", "ortakgs"]
+		},
+		"Rowdy_test": {
+			"name": "Rowdy_test.png",
+			"x": 1313,
+			"y": 10760,
+			"width": 75,
+			"height": 34,
+			"categories": ["rowdy"],
+			"aliases": ["Rowdy", "rowdy", "UML", "UMass Lowell"]
 		}
+
 	}
 }
